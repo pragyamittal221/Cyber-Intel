@@ -11,7 +11,7 @@ In this section of the project we performed initial reconnaissance and learnt ab
 ## Part 2
 In this section of the project we performed threat modeling in the following ways:
 * Came up with a list of the company's critical assets
-* Built threat actor profiles using concepts like Persona non Grata, Securiity Cards, and STRIDE
+* Built threat actor profiles using concepts like Persona non Grata, Security Cards, and STRIDE
 * Built attack trees for threat actors
 * Wrote guidelines for employees on how to protect themselves from cyber attacks
 
